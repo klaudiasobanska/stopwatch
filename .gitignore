@@ -1,0 +1,14 @@
+*.exe 
+
+dist/
+converage/
+
+# Logs
+logs
+*.log
+
+.npm
+
+# Editor
+.vscode
+.vscode-test
